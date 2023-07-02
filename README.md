@@ -1,1 +1,1 @@
-# stochastic-automata
+# Stochastic Automata
